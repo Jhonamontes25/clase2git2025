@@ -1,3 +1,3 @@
-﻿# clase2git2025
+Este es un archivo para documentacion
 
 
